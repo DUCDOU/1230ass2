@@ -1,0 +1,2 @@
+student|0|up
+student2|0|down

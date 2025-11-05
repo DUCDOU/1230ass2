@@ -1,0 +1,13 @@
+{
+  "name": "student/assignment2",
+  "description": "Voting Application Assignment",
+  "require": {
+    "php": ">=7.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  },
+  "autoload": {
+    "files": ["functions.php"]
+  }
+}
